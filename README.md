@@ -1,5 +1,3 @@
-# PythonExperiment1
-To-Do: Put Description Here
 # Python Experiemnts 
 This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, *Foundations of Data Science* at Mississippi State University.
 ## Plan
@@ -11,6 +9,6 @@ My baking compentencies include:
 - Cupcakes
 - Cheesecake
 - Chocolate covered strawberries
+  
 In order to test the inclusion of a photograph, I've included a photo of me holding some chocolate covered strawberries I made:
-
 ![Strawberries](https://github.com/user-attachments/assets/6f23175a-e673-48a4-9768-9188c0d8ab6f)
