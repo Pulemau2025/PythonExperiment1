@@ -1,10 +1,10 @@
 # PythonExperiment1
 To-Do: Put Description Here
-# H1 Python Experiemnts 
+# Python Experiemnts 
 This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, *Foundations of Data Science* at Mississippi State University.
-## H2 Plan
+## Plan
 Future plans for this repository include adding a sample date file and a [Jupyter] notebook that will interact with the file
-## H2 About Me
+## About Me
 I am Leilani Pulemau and I am new to **Treat Making**  but I am starting to enjoy it.
 My baking compentencies include: 
 - Cakes
